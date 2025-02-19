@@ -10,5 +10,9 @@
 	{
 		"name": "Projects",
 		"url": "/projects"
+	},
+	{
+		"name": "Certification",
+		"url": "/certification"
 	}
 ]
